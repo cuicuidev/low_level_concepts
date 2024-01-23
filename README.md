@@ -2,6 +2,9 @@
 
 ## Contents
 
+- Introduction
+    - Presentation
+    - The importance of low level understanding
 - Computer Science Fundamentals
     - What is a transistor
     - Logic gates
